@@ -43,6 +43,7 @@ collections:
   - name: trippsc2.mdt
   - name: trippsc2.mssql
   - name: trippsc2.netscaler
+  - name: trippsc2.nexus
   - name: trippsc2.packer
   - name: trippsc2.postgresql
   - name: trippsc2.template
