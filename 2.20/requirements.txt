@@ -1,0 +1,16 @@
+git+https://github.com/ansible/ansible-sign
+ansible-lint
+fqdn
+ncclient
+paramiko
+pexpect>=4.5
+pykerberos
+pyOpenSSL
+pypsrp[kerberos,credssp]
+pywinrm[kerberos,credssp]
+python-daemon
+pyyaml
+receptorctl
+six
+toml
+yamllint
